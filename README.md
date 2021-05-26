@@ -1,7 +1,7 @@
 
 # Milestone13-15-Countries
 
-A list of countries created in a Table View. Select a country and see the information about it. 
+A list of countries created on a Table View. Select a country and see the information about it. 
 
 This is my favorite project so far. Not only because I made it all by myself, but because I got to work with the most challenging contents I learned on these past months: JSON, DispatchQueues and Auto Layout. 
 The first challenge was to find a document in JSON format with coountries and information about them. Once I found it, I had to parse in my code. It wasn't easy. I got stuck for days. And then I saw the way, I mean, I saw a video about debugging. There are many force unwrapps on my code, and it is by purpose. They helped me seeing what was going on and I got to fix it. 
